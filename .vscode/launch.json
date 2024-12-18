@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UsuarioDAOTest",
+            "request": "launch",
+            "mainClass": "biblioteca.test.UsuarioDAOTest",
+            "projectName": "Biblioteca-POO-Ajustando-requisitos_592e568e"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioBOTest",
+            "request": "launch",
+            "mainClass": "biblioteca.test.UsuarioBOTest",
+            "projectName": "Biblioteca-POO-Ajustando-requisitos_592e568e"
+        },
+        {
+            "type": "java",
+            "name": "ItemDAOTest",
+            "request": "launch",
+            "mainClass": "biblioteca.test.ItemDAOTest",
+            "projectName": "Biblioteca-POO-Ajustando-requisitos_592e568e"
+        },
+        {
+            "type": "java",
+            "name": "ItemBOTest",
+            "request": "launch",
+            "mainClass": "biblioteca.test.ItemBOTest",
+            "projectName": "Biblioteca-POO-Ajustando-requisitos_592e568e"
+        },
+        {
+            "type": "java",
+            "name": "MenuPrincipal",
+            "request": "launch",
+            "mainClass": "biblioteca.view.MenuPrincipal",
+            "projectName": "Biblioteca-POO-Ajustando-requisitos_592e568e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SistemaBiblioteca",
+            "request": "launch",
+            "mainClass": "biblioteca.SistemaBiblioteca",
+            "projectName": "Biblioteca"
+        }
+    ]
+}
